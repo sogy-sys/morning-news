@@ -7,7 +7,7 @@ FEEDS = {
     "NHK": "https://www.nhk.or.jp/rss/news/cat0.xml",
     "朝日新聞": "https://www.asahi.com/rss/asahi/newsheadlines.rdf",
     "毎日新聞": "https://mainichi.jp/rss/etc/mainichi-flash.rss",
-    "読売新聞": "https://www.yomiuri.co.jp/rss/",  # 要確認
+    "読売新聞": "https://assets.wor.jp/rss/rdf/yomiuri/latestnews.rdf",
     "日本経済新聞": "https://assets.wor.jp/rss/rdf/nikkei/news.rdf",  # 要確認
 }
 PER_FEED = 10
