@@ -1,0 +1,23 @@
+name: daily-news
+on:
+  schedule:
+    - cron: "0 20 * * *"   # 毎日 日本時間 5:00(UTC 20:00)
+  workflow_dispatch:        # 手動実行ボタン
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install feedparser
+      - run: python update.py
+      - run: |
+          git config user.name "news-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add news.json
+          git commit -m "update news" || echo "no changes"
+          git push
