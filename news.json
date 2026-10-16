@@ -1,34 +1,48 @@
 {
- "date": "2026年10月16日",
+ "date": "2026年10月17日",
  "lead": "",
  "items": [
   {
    "source": "NHK",
-   "title": "気象庁 緊急地震速報取り消しで2回目の会見 原因は【ライブ】",
+   "title": "緊急地震速報の過大推定 「過去の対策が機能せず」気象庁",
    "summary": "",
    "category": "",
    "link": "https://news.web.nhk/newsweb/na/nd-20261016de60368"
   },
   {
    "source": "NHK",
-   "title": "日本郵便 不正アクセスで国際郵便利用者の情報 一時閲覧可能に",
+   "title": "個人情報漏えい のべ1億6500万人分余に 利用者の対策は?",
    "summary": "",
    "category": "",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261016de60543"
+   "link": "https://news.web.nhk/newsweb/na/nd-20261016de60239"
   },
   {
    "source": "NHK",
-   "title": "インフルエンザ患者数わずかに増加 厚労省が注意呼びかけ",
+   "title": "台風30号 非常に強い勢力に発達する見込み 今後の情報に注意",
    "summary": "",
    "category": "",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261016de60515"
+   "link": "https://news.web.nhk/newsweb/na/nd-20261017de60802"
   },
   {
    "source": "NHK",
-   "title": "猪苗代湖ボート3人死傷事故 無罪取り消し 有罪確定へ 最高裁",
+   "title": "消費減税 農家などに売り上げ5％程度の給付金検討",
    "summary": "",
    "category": "",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261016de60234"
+   "link": "https://news.web.nhk/newsweb/na/nd-20261016de60762"
+  },
+  {
+   "source": "NHK",
+   "title": "日銀植田総裁“物価2％超の上昇容認せず” 今後も利上げ進める",
+   "summary": "",
+   "category": "",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261017de60794"
+  },
+  {
+   "source": "NHK",
+   "title": "NTTドコモ 緊急地震速報が利用者に配信されず",
+   "summary": "",
+   "category": "",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261016de60749"
   },
   {
    "source": "NHK",
@@ -38,228 +52,284 @@
    "link": "https://news.web.nhk/newsweb/na/nd-20261016de60395"
   },
   {
-   "source": "NHK",
-   "title": "“餃子の王将”社長殺害事件 暴力団幹部に無罪判決 京都地裁",
+   "source": "朝日新聞",
+   "title": "「資金洗浄」公判、被告が起訴内容認める　八代市庁舎汚職事件に絡み",
    "summary": "",
    "category": "",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261015de60144"
-  },
-  {
-   "source": "NHK",
-   "title": "ドジャース 大谷HRも敗退 3連覇逃す ブルワーズ戦【詳報】",
-   "summary": "",
-   "category": "",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261015de60061"
+   "link": "http://www.asahi.com/articles/ASVBJ3PTDVBJTLVB009M.html?ref=rss"
   },
   {
    "source": "朝日新聞",
-   "title": "【判決要旨の全文】「餃子の王将」社長射殺　地裁、組幹部に「無罪」",
+   "title": "職員が患者を撮影し投稿か、病院が「おわび」　福岡・済生会八幡総合",
    "summary": "",
    "category": "",
-   "link": "http://www.asahi.com/articles/ASVBJ2RB9VBJUTIL01NM.html?ref=rss"
+   "link": "http://www.asahi.com/articles/ASVBJ3HFNVBJTIPE01YM.html?ref=rss"
   },
   {
    "source": "朝日新聞",
-   "title": "働き方改革で導入の部活指導員、勤務の3割で教員と指導　検査院調査",
+   "title": "北海道・十勝岳の噴火警戒レベル3→2　吹上温泉の「避難指示」解除",
    "summary": "",
    "category": "",
-   "link": "http://www.asahi.com/articles/ASVBJ24T2VBJUTIL00LM.html?ref=rss"
+   "link": "http://www.asahi.com/articles/ASVBJ2DBSVBJIIPE009M.html?ref=rss"
   },
   {
    "source": "朝日新聞",
-   "title": "福岡市長選、違反取締本部を県警が設置　事前運動ですでに2件の警告",
+   "title": "王将社長射殺「犯人だと推認できても、断定はできない」と無罪判決",
    "summary": "",
    "category": "",
-   "link": "http://www.asahi.com/articles/ASVBJ2H0PVBJTIPE00DM.html?ref=rss"
+   "link": "http://www.asahi.com/articles/ASVBJ2P8SVBJOXIE021M.html?ref=rss"
   },
   {
    "source": "朝日新聞",
-   "title": "国勢調査人口水増し疑惑、富山市に苦情など180件　業務の総点検へ",
+   "title": "押し黙る相手に「困った」　検事が「検察なめんな」と怒鳴った理由",
    "summary": "",
    "category": "",
-   "link": "http://www.asahi.com/articles/ASVBJ0PRCVBJOXIE03SM.html?ref=rss"
+   "link": "http://www.asahi.com/articles/ASVBJ3DB2VBJPTIL00GM.html?ref=rss"
   },
   {
    "source": "朝日新聞",
-   "title": "「検察なめんな」、被告人質問「取り調べ向き合っていないと思った」",
+   "title": "原発事故の国の責任認めず　仙台高裁、福島・津島地区の住民側が敗訴",
    "summary": "",
    "category": "",
-   "link": "http://www.asahi.com/articles/ASVBG4K18VBGPTIL001M.html?ref=rss"
+   "link": "http://www.asahi.com/articles/ASVBJ1HJYVBJUGTB00VM.html?ref=rss"
   },
   {
    "source": "朝日新聞",
-   "title": "東京都職員の初任給、初の30万円台へ　ボーナスは28年ぶり水準に",
+   "title": "三重県で全国初の刑事罰付きカスハラ条例案が可決　来年4月施行へ",
    "summary": "",
    "category": "",
-   "link": "http://www.asahi.com/articles/ASVBJ1JQ7VBJOXIE042M.html?ref=rss"
+   "link": "http://www.asahi.com/articles/ASVBJ34XSVBJONFB001M.html?ref=rss"
   },
   {
    "source": "朝日新聞",
-   "title": "不正アクセスによる情報流出「実態解明と注意喚起進める」警察庁長官",
+   "title": "東海道・山陽新幹線、次世代車両「SO系」開発へ　29年デビュー",
    "summary": "",
    "category": "",
-   "link": "http://www.asahi.com/articles/ASVBJ2CTVVBJUTIL01CM.html?ref=rss"
+   "link": "http://www.asahi.com/articles/ASVBJ32KFVBJUTIL00MM.html?ref=rss"
   },
   {
    "source": "朝日新聞",
-   "title": "王将社長射殺事件、組幹部に無罪判決　「合理的な疑い払拭できない」",
+   "title": "「相互理解促し、民主主義の維持と発展を」　松江市で新聞大会",
    "summary": "",
    "category": "",
-   "link": "http://www.asahi.com/articles/ASVBH4FX2VBHPLZB00HM.html?ref=rss"
+   "link": "http://www.asahi.com/articles/ASVBJ32VHVBJUTIL03CM.html?ref=rss"
   },
   {
    "source": "朝日新聞",
-   "title": "16歳未満とみだらな行為、長野県警の巡査長を懲戒免職　不倫も発覚",
+   "title": "遺族「控訴を」、元役員「報われない」王将社長射殺事件の無罪判決に",
    "summary": "",
    "category": "",
-   "link": "http://www.asahi.com/articles/ASVBJ2CXVVBJOXIE037M.html?ref=rss"
-  },
-  {
-   "source": "朝日新聞",
-   "title": "いじめ被害「自死の契機に」　広島・呉の中1、学校はいじめ認識せず",
-   "summary": "",
-   "category": "",
-   "link": "http://www.asahi.com/articles/ASVBJ268BVBJPTIL00DM.html?ref=rss"
+   "link": "http://www.asahi.com/articles/ASVBJ350RVBJOXIE022M.html?ref=rss"
   },
   {
    "source": "毎日新聞",
-   "title": "西濃運輸・佐伯監督「夏秋連覇を目標にしてきた」　日本選手権",
+   "title": "東葛駅伝、17日号砲　6市の中学校から700人がたすきつなぐ",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261016/k00/00m/050/256000c"
+   "link": "https://mainichi.jp/articles/20261009/k00/00m/310/021000c"
   },
   {
    "source": "毎日新聞",
-   "title": "元日ハムのエナジック・糸数監督「私たち以外の全チームが強い」",
+   "title": "「セックスが怖い」を変えるか　ED治療薬が市販化で気軽に",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261016/k00/00m/050/246000c"
+   "link": "https://mainichi.jp/articles/20261015/k00/00m/100/106000c"
   },
   {
    "source": "毎日新聞",
-   "title": "アルバニアで反政権デモ過激化　発端はトランプ家絡みの開発計画",
+   "title": "米大統領報道官を解任　経歴詐称疑惑、トランプ政権に打撃　米報道",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261016/k00/00m/030/232000c"
+   "link": "https://mainichi.jp/articles/20261016/k00/00m/030/179000c"
   },
   {
    "source": "毎日新聞",
-   "title": "仙台育英、八戸学院光星など4強　高校野球秋季東北大会",
+   "title": "オールドルーキー、DeNA片山が7回無失点　初対戦の阪神に快投",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261016/k00/00m/050/243000c"
+   "link": "https://mainichi.jp/articles/20261016/k00/00m/050/399000c"
   },
   {
    "source": "毎日新聞",
-   "title": "JR札幌駅直結の商業施設、19日に営業再開　火災で臨時休業",
+   "title": "高市首相、プレミアム商品券を検討　消費減税に伴う外食産業支援",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261016/k00/00m/310/242000c"
+   "link": "https://mainichi.jp/articles/20261016/k00/00m/010/393000c"
   },
   {
    "source": "毎日新聞",
-   "title": "ポッドキャスト:映画がつなぐ東京と世界　開幕控える東京国際映画祭を楽しむ",
+   "title": "新庄監督の「秘策」出せず　日本ハム3連敗で敗退　CSファイナル",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261016/k00/00m/200/135000c"
+   "link": "https://mainichi.jp/articles/20261016/k00/00m/050/394000c"
   },
   {
    "source": "毎日新聞",
-   "title": "個人情報が流出したら？　不正アクセス急増で利用者にできること",
+   "title": "マイカー自粛、クラクション24時間禁止　APEC控える中国・深圳",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261016/k00/00m/040/049000c"
+   "link": "https://mainichi.jp/articles/20261016/k00/00m/030/381000c"
   },
   {
    "source": "毎日新聞",
-   "title": "駅伝365:青学大の弟は箱根で好走　専修大・平松龍青　夢は「双子で4区」",
+   "title": "ニデック、永守氏ら9人に損害賠償請求へ　取締役会で決定",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261014/k00/00m/050/061000c"
+   "link": "https://mainichi.jp/articles/20261016/k00/00m/020/371000c"
   },
   {
    "source": "毎日新聞",
-   "title": "ATMに41回、計2000万円を入金　被告、起訴内容認める　八代汚職",
+   "title": "緊急地震速報、初の警報取り消し　M9.9と過大推定、気象庁が謝罪",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261016/k00/00m/040/234000c"
+   "link": "https://mainichi.jp/articles/20261016/k00/00m/040/368000c"
   },
   {
    "source": "毎日新聞",
-   "title": "海外視察の基準まとめた最終答申を議長に提出　福岡県議会PT",
+   "title": "証拠の核心だった「吸い殻」　地裁に否定され、検察の立証が瓦解",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261016/k00/00m/010/185000c"
+   "link": "https://mainichi.jp/articles/20261016/k00/00m/040/360000c"
+  },
+  {
+   "source": "読売新聞",
+   "title": "サイバー攻撃で個人情報などの流出が判明した企業・団体の一覧",
+   "summary": "",
+   "category": "",
+   "link": "https://www.yomiuri.co.jp/national/20261009-GYT1T00299/"
+  },
+  {
+   "source": "読売新聞",
+   "title": "Ｍ９・９発生と発表の緊急地震速報「初の取り消し」…気象庁は３回の会見で謝罪、サイバー攻撃は否定",
+   "summary": "",
+   "category": "",
+   "link": "https://www.yomiuri.co.jp/national/20261016-GYT1T00323/"
+  },
+  {
+   "source": "読売新聞",
+   "title": "スパイ容疑で拘束の道新記者との面会求め、日本大使館幹部が拘置所へ…調整済みのはずが会えず",
+   "summary": "",
+   "category": "",
+   "link": "https://www.yomiuri.co.jp/world/20261017-GYT1T00035/"
+  },
+  {
+   "source": "読売新聞",
+   "title": "新聞協会賞受賞作を通して見えてくるジャーナリズムや報道の意義、各界有識者が語る",
+   "summary": "",
+   "category": "",
+   "link": "https://www.yomiuri.co.jp/national/20261017-GYT1T00006/"
+  },
+  {
+   "source": "読売新聞",
+   "title": "［深層ＮＥＷＳ］道新記者逮捕の狙い「サハリン州に拠点置くメディアを萎縮させたかった」…兵頭慎治氏",
+   "summary": "",
+   "category": "",
+   "link": "https://www.yomiuri.co.jp/world/20261016-GYT1T00394/"
+  },
+  {
+   "source": "読売新聞",
+   "title": "安全保障上重要なゲノム・医療・金融の３分野対象、重要情報の流出防ぐ「データセキュリティー」強化へ",
+   "summary": "",
+   "category": "",
+   "link": "https://www.yomiuri.co.jp/politics/20261016-GYT1T00409/"
+  },
+  {
+   "source": "読売新聞",
+   "title": "「当事者」たちの切実な声を拾い上げ、リアルを伝えた新聞協会賞受賞作…文芸評論家・三宅香帆さん",
+   "summary": "",
+   "category": "",
+   "link": "https://www.yomiuri.co.jp/national/20261016-GYT1T00436/"
+  },
+  {
+   "source": "読売新聞",
+   "title": "三菱電機、鴻海と自動車機器事業の共同運営で最終合意…子会社株５０％を鴻海側に１１５０億円で売却",
+   "summary": "",
+   "category": "",
+   "link": "https://www.yomiuri.co.jp/economy/20261016-GYT1T00415/"
+  },
+  {
+   "source": "読売新聞",
+   "title": "初の折りたたみｉＰｈｏｎｅ「デュオ」の予約開始、２年後の端末返却プランなら大幅割引も",
+   "summary": "",
+   "category": "",
+   "link": "https://www.yomiuri.co.jp/economy/20261016-GYT1T00395/"
+  },
+  {
+   "source": "読売新聞",
+   "title": "不正アクセスの多発受け、通信事業者にサイバー攻撃対策の強化義務…総務省が２２日に有識者会議",
+   "summary": "",
+   "category": "",
+   "link": "https://www.yomiuri.co.jp/economy/20261016-GYT1T00375/"
   },
   {
    "source": "日本経済新聞",
-   "title": "高知県企業の生成AI活用増加　小規模企業はゼロから25.0%に",
+   "title": "ドイツ株16日　続伸、1カ月ぶり高値　自動車に買い",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOCC085PM0Y6A001C2000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOFL16BS20W6A011C2000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "ロックフェラー財団「途上国支援、成長投資に回らず」　利払い費増加で",
+   "title": "ロンドン株16日　続伸、1カ月半ぶり高値　ディフェンシブ銘柄に買い",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOUC15ARM0V11C26A0000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOFL16BS10W6A011C2000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "新幹線「のぞみ」指定席値上げ、東京―新大阪で700円　JR東海が民営化後初",
+   "title": "記憶は都合良く変わる　よい体験を思い出そう",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOFD161TD0W6A011C2000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOSG07C220X01C26A0000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "「循環経済」の認知度3割強　再生材利用へ価格に課題、内閣府調査",
+   "title": "新iPhone、放熱技術にMacBookの知見　垂直統合型開発の妙味",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOUA14B1G0U6A011C2000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOUC13ADT0T11C26A0000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "日銀総裁、基調的な物価「2%に近づく」　内田副総裁が代読",
+   "title": "分断のコストを警戒する市場",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOUB15B4U0V11C26A0000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOUB148BG0U6A011C2000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "食と花の名匠、人間国宝に初認定へ　京料理「瓢亭」高橋さんら3人",
+   "title": "アジア太平洋小売業者大会開催　ニトリHD会長「数年以内にロボ接客」",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOUD1009N0Q6A011C2000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOUC167MT0W6A011C2000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "群馬・みなかみのスキー場、通年型へ民宿改修　夏季来場2.5倍目指す",
+   "title": "サイバー攻撃「国際連携で捜査と実態解明」、葉梨康弘国家公安委員長",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOCC162XC0W6A011C2000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOUD1577E0V11C26A0000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "大阪城天守閣、重要文化財に　昭和建築の再現城郭で初",
+   "title": "コーヒー焙煎技術で日本一　至福の一杯を奈良から全国へ",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOUD1526Z0V11C26A0000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOUC134LW0T11C26A0000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "三菱UFJ傘下のアユタヤ銀行、ベトナム大手ノンバンクを完全子会社に",
+   "title": "繊維商社3社、ECで生地を相互販売　ヤギ･サンウェル･瀧定",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOUB164BA0W6A011C2000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOUC163CJ0W6A011C2000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "パーク24、タイムズカー情報流出で補償など対応方針を23日に案内",
+   "title": "ビジネスパーソンも茶の湯　4時間かけて「自分リセット」",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOUC1678O0W6A011C2000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOUC1634P0W6A011C2000000/"
   }
  ]
 }
