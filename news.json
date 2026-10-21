@@ -1,202 +1,216 @@
 {
- "date": "2026年10月21日",
+ "date": "2026年10月22日",
  "lead": "",
  "items": [
   {
    "source": "NHK",
-   "title": "高市内閣発足1年 消費税減税法案成立に全力 安保3文書取り組む",
+   "title": "“PHPでぜい弱性確認 速やかな対応を”情報処理推進機構",
    "summary": "",
    "category": "",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261020de62511"
+   "link": "https://news.web.nhk/newsweb/na/nd-20261021de63209"
   },
   {
    "source": "NHK",
-   "title": "国の省エネ住宅事業で2万3000件超の情報漏えいのおそれ",
+   "title": "猛烈な台風30号 先島諸島23日接近 西日本に影響の可能性も",
    "summary": "",
    "category": "",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261020de62509"
+   "link": "https://news.web.nhk/newsweb/na/nd-20261021de62549"
   },
   {
    "source": "NHK",
-   "title": "ふるさとチョイス 445万件の個人情報流出を発表",
+   "title": "秋田 子吉川で一時 氾濫特別警報 危険な場所に近づかないで",
    "summary": "",
    "category": "",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261020de62437"
+   "link": "https://news.web.nhk/newsweb/na/nd-20261021de63227"
   },
   {
    "source": "NHK",
-   "title": "岩井コスモ証券 不正アクセスで顧客が意図しない売買注文",
+   "title": "【動画】道路まで水あふれる 子吉川沿い 秋田 由利本荘市",
    "summary": "",
    "category": "",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261021de62520"
+   "link": "https://news.web.nhk/newsweb/na/nd-20261021de63212"
   },
   {
    "source": "NHK",
-   "title": "千葉 台風25号から1か月 道路や鉄道の復旧に課題",
+   "title": "ネパールのヒマラヤで登山中だった日本人2人が行方不明",
    "summary": "",
    "category": "",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261020de62490"
+   "link": "https://news.web.nhk/newsweb/na/nd-20261022de63265"
   },
   {
    "source": "NHK",
-   "title": "探査機「MMX」 火星へ向かう軌道に 衛星「フォボス」探査へ",
+   "title": "不正アクセス“金融機関が狙われる段階に変わってきた可能性”",
    "summary": "",
    "category": "",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261019de61814"
+   "link": "https://news.web.nhk/newsweb/na/nd-20261021de62921"
   },
   {
    "source": "NHK",
-   "title": "台風30号 先島諸島に23日から接近見込み 西日本に影響可能性も",
+   "title": "体操 世界選手権 女子団体 日本は銅メダルで五輪出場権獲得",
    "summary": "",
    "category": "",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261020de61985"
+   "link": "https://news.web.nhk/newsweb/na/nd-20261022de63274"
   },
   {
    "source": "朝日新聞",
-   "title": "「マンション管理会社にも金銭」と談合業者　大規模修繕で新たな証言",
+   "title": "沖縄・宜野湾の民家で75歳女性の遺体、体に複数の切り傷",
    "summary": "",
    "category": "",
-   "link": "http://www.asahi.com/articles/ASVBN2HJFVBNUEFT00NM.html?ref=rss"
+   "link": "http://www.asahi.com/articles/ASVBP44KNVBPTPOB006M.html?ref=rss"
   },
   {
    "source": "朝日新聞",
-   "title": "検察庁かたる詐欺で5千万円被害　自分名義の口座作られ入金　札幌市",
+   "title": "20府県警の警察官ら12万5千件の個人情報流出か　氏名やアドレス",
    "summary": "",
    "category": "",
-   "link": "http://www.asahi.com/articles/ASVBN3TRYVBNIIPE00TM.html?ref=rss"
+   "link": "http://www.asahi.com/articles/ASVBP3SVBVBPUTIL02JM.html?ref=rss"
   },
   {
    "source": "朝日新聞",
-   "title": "車が歩道に突っ込み歩行者はねる　70代男性死亡　神奈川・横須賀",
+   "title": "横浜のごみ集積所で発見の男児の遺体　死後約1週間か　神奈川県警",
    "summary": "",
    "category": "",
-   "link": "http://www.asahi.com/articles/ASVBN3V25VBNULOB01MM.html?ref=rss"
+   "link": "http://www.asahi.com/articles/ASVBP3T0MVBPULOB018M.html?ref=rss"
   },
   {
    "source": "朝日新聞",
-   "title": "歌舞伎町に「専従班」、継続パトロールで犯罪抑止へ　警視庁新宿署",
+   "title": "無人の交番で「ショウリンジ」と叫ぶ迷惑行為　少年20人超を捜査",
    "summary": "",
    "category": "",
-   "link": "http://www.asahi.com/articles/ASVBN3F8FVBNUTIL02YM.html?ref=rss"
+   "link": "http://www.asahi.com/articles/ASVBP3HCKVBPPIHB005M.html?ref=rss"
   },
   {
    "source": "朝日新聞",
-   "title": "横浜園芸博の予定地から砲弾2発を除去　「危険性なし」と発表はせず",
+   "title": "2児殺害事件、母親に懲役18年求刑　責任能力の有無・程度が争点",
    "summary": "",
    "category": "",
-   "link": "http://www.asahi.com/articles/ASVBN36JSVBNULOB01FM.html?ref=rss"
+   "link": "http://www.asahi.com/articles/ASVBP32KRVBPUJHB00DM.html?ref=rss"
   },
   {
    "source": "朝日新聞",
-   "title": "自ら専用機を操縦して来日、両陛下がタイのスティダー王妃と面会",
+   "title": "神戸の連続発砲、殺人容疑で元組員を再逮捕「不動産取引でトラブル」",
    "summary": "",
    "category": "",
-   "link": "http://www.asahi.com/articles/ASVBN32KBVBNUTIL01PM.html?ref=rss"
+   "link": "http://www.asahi.com/articles/ASVBP1SCBVBPPIHB00DM.html?ref=rss"
   },
   {
    "source": "朝日新聞",
-   "title": "同窓会の資金8700万円横領か、前会長を告訴　大阪の箕面自由学園",
+   "title": "斎藤知事への名誉毀損容疑、フリー記者書類送検　「正当な論評」主張",
    "summary": "",
    "category": "",
-   "link": "http://www.asahi.com/articles/ASVBN2J84VBNPTIL00FM.html?ref=rss"
+   "link": "http://www.asahi.com/articles/ASVBP2H7JVBPPIHB00TM.html?ref=rss"
   },
   {
    "source": "朝日新聞",
-   "title": "「検察なめんな」検事　被告人質問で「強く言えば響いてくれる人」",
+   "title": "両陛下の大阪訪問発表　大阪公立大は異例の日程除外、サイバー攻撃で",
    "summary": "",
    "category": "",
-   "link": "http://www.asahi.com/articles/ASVBN35RJVBNPTIL00JM.html?ref=rss"
+   "link": "http://www.asahi.com/articles/ASVBP2RH3VBPUTIL01SM.html?ref=rss"
   },
   {
    "source": "朝日新聞",
-   "title": "「遺体なき」傷害致死事件　公判で黙秘した被告に懲役12年6カ月",
+   "title": "大阪・大東市の元主査を収賄罪で追起訴　現金や家電など219万円分",
    "summary": "",
    "category": "",
-   "link": "http://www.asahi.com/articles/ASVBN35H6VBNPTIL00XM.html?ref=rss"
+   "link": "http://www.asahi.com/articles/ASVBP2SDCVBPPTIL014M.html?ref=rss"
   },
   {
    "source": "朝日新聞",
-   "title": "大阪地裁前で会社役員刺される　「金銭トラブル」殺人未遂容疑で逮捕",
+   "title": "職員が患者を撮影、病院が認め謝罪　床はう患者の動画がSNSに",
    "summary": "",
    "category": "",
-   "link": "http://www.asahi.com/articles/ASVBN0FZHVBNPTIL00QM.html?ref=rss"
+   "link": "http://www.asahi.com/articles/ASVBP2J4MVBPTIPE00QM.html?ref=rss"
   },
   {
    "source": "毎日新聞",
-   "title": "北海道職員が就活セクハラか　学生に「かわいい」など何度もLINE",
+   "title": "クマ出没を即時発信　青森県、AI機能付きセンサーカメラを設置",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261020/k00/00m/310/278000c"
+   "link": "https://mainichi.jp/articles/20261021/k00/00m/310/131000c"
   },
   {
    "source": "毎日新聞",
-   "title": "イエメン暫定政権の新兵73人死亡　英国は戦闘機をサウジ派遣へ",
+   "title": "読む政治:「たまたま女性初でした」　高市首相が「姉」に向けた言葉",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261020/k00/00m/030/336000c"
+   "link": "https://mainichi.jp/articles/20261021/k00/00m/010/038000c"
   },
   {
    "source": "毎日新聞",
-   "title": "山形から茨城まで17万5000円分タクシー無賃乗車か　53歳を逮捕",
+   "title": "太陽光発電、本当に限界?　「次世代」推しの政府が踏むブレーキ",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261020/k00/00m/310/319000c"
+   "link": "https://mainichi.jp/articles/20261019/k00/00m/040/073000c"
   },
   {
    "source": "毎日新聞",
-   "title": "読む政治:「反対ありき」ではない?　消費減税法案、野党の足並みは",
+   "title": "札幌市が公式ホームページ一時停止　PHP脆弱性発見で予防措置",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261020/k00/00m/010/318000c"
+   "link": "https://mainichi.jp/articles/20261022/k00/00m/310/001000c"
   },
   {
    "source": "毎日新聞",
-   "title": "ニデック不正、永守氏含む元役員ら9人に責任　調査委が報告書",
+   "title": "秋田・子吉川の氾濫、けが人の情報なし　レベル5氾濫特別警報",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261020/k00/00m/020/309000c"
+   "link": "https://mainichi.jp/articles/20261021/k00/00m/040/391000c"
   },
   {
    "source": "毎日新聞",
-   "title": "与野党9党の衆院選制度協議、自民が折衷案提示へ　野党はけん制",
+   "title": "岩井コスモ証券に不正アクセス　顧客の意図しない売買注文が成立",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261020/k00/00m/010/303000c"
+   "link": "https://mainichi.jp/articles/20261021/k00/00m/040/386000c"
   },
   {
    "source": "毎日新聞",
-   "title": "「火星の月」の成り立ち、決着へ第一歩　探査機MMX打ち上げ成功",
+   "title": "高市首相「大至急のお願い」　プログラミング言語PHPの脆弱性で",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261020/k00/00m/040/302000c"
+   "link": "https://mainichi.jp/articles/20261021/k00/00m/010/382000c"
   },
   {
    "source": "毎日新聞",
-   "title": "特定技能・育成就労の上限123万人　山下法相「見直し考えず」",
+   "title": "長崎で今年2例目の日本脳炎　佐世保の70代女性、発熱と意識障害",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261020/k00/00m/010/299000c"
+   "link": "https://mainichi.jp/articles/20261021/k00/00m/310/378000c"
   },
   {
    "source": "毎日新聞",
-   "title": "都構想の特別区設置コスト、前回試算の2.6倍　維新は「想定内」",
+   "title": "日本音コン本選が開幕　作曲部門の審査結果を発表",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261020/k00/00m/040/298000c"
+   "link": "https://mainichi.jp/articles/20261021/k00/00m/200/376000c"
   },
   {
    "source": "毎日新聞",
-   "title": "元特捜検事「襟を正すべきだった」　陵虐行為巡る被告人質問で",
+   "title": "アジアパラ、違う歌流れ表彰式をやり直し　テコンドー男子",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261020/k00/00m/040/286000c"
+   "link": "https://mainichi.jp/articles/20261021/k00/00m/310/365000c"
   },
   {
    "source": "読売新聞",
-   "title": "消費税減税、経団連会長が外食産業への影響懸念…政府に支援希望「プレミアム付き商品券いいアイデア」",
+   "title": "秋田県の子吉川に「レベル５氾濫特別警報」、越水による氾濫を確認",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/economy/20261021-GYT1T00064/"
+   "link": "https://www.yomiuri.co.jp/national/20261021-GYT1T00359/"
+  },
+  {
+   "source": "読売新聞",
+   "title": "ブッキング・ドットコムを欧州委が調査、漏えいした予約情報による詐欺被害が世界中で発生",
+   "summary": "",
+   "category": "",
+   "link": "https://www.yomiuri.co.jp/economy/20261021-GYT1T00501/"
+  },
+  {
+   "source": "読売新聞",
+   "title": "プログラム言語「ＰＨＰ」に重大な脆弱性、ウェブサイトの７割で使用…「放置は極めて危険」",
+   "summary": "",
+   "category": "",
+   "link": "https://www.yomiuri.co.jp/national/20261021-GYT1T00475/"
   },
   {
    "source": "読売新聞",
@@ -207,129 +221,115 @@
   },
   {
    "source": "読売新聞",
-   "title": "「ａｕペイ」加盟店の紹介地図サイト…個人事業主４５万人超の住所や電話番号など同意なく掲載か、一部氏名も",
+   "title": "サービス停止中の「コミックシーモア」、個人情報流出は最大４２０万件…再開時期は未定",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/economy/20261020-GYT1T00489/"
+   "link": "https://www.yomiuri.co.jp/economy/20261021-GYT1T00424/"
   },
   {
    "source": "読売新聞",
-   "title": "ニデック調査委「永守重信氏ら９人に賠償責任」、損害額２７６億円…提訴含む法的措置を検討",
+   "title": "富士急ハイランドに不正アクセス、一部の会員のクレジットカード情報も漏れた可能性",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/economy/20261020-GYT1T00491/"
+   "link": "https://www.yomiuri.co.jp/economy/20261021-GYT1T00422/"
   },
   {
    "source": "読売新聞",
-   "title": "［深層ＮＥＷＳ］消費税減税・支援金法案が審議入り、「減税は世紀の愚策」…石原伸晃氏",
+   "title": "大型で猛烈な台風３０号、２３～２４日頃にも先島諸島に接近…週明けには西日本に影響か",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/politics/20261020-GYT1T00337/"
+   "link": "https://www.yomiuri.co.jp/national/20261021-GYT1T00355/"
   },
   {
    "source": "読売新聞",
-   "title": "ドコモ「あんしんフィルター」、２週間にわたり利用できない状態…復旧時期は未定",
+   "title": "【竜王戦第２局・前日イベント】藤井聡太竜王－服部慎一郎七段戦…三嶋大社では鹿せんべい、前夜祭は「結婚式」風のサプライズ",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/economy/20261020-GYT1T00469/"
+   "link": "https://www.yomiuri.co.jp/igoshougi/ryuoh/kifu/20261021-SYT8T8503641/"
   },
   {
    "source": "読売新聞",
-   "title": "サイバー攻撃受け意図しない売買注文「成立」、岩井コスモ証券…５０００人弱の個人情報が流出",
+   "title": "インスタやフェイスブック、子供の利用制限「日本政府との検討事項だ」とメタ幹部…アメリカでは１日２時間以内の規制を導入方針",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/national/20261020-GYT1T00455/"
+   "link": "https://www.yomiuri.co.jp/economy/20261021-GYT1T00357/"
   },
   {
    "source": "読売新聞",
-   "title": "新名神６人死亡事故で拘禁刑７年、遺族「ながらスマホも危険運転に」「納得できない」…法改正による厳罰化求める",
+   "title": "床をはう入院患者を職員が撮影、ＳＮＳで拡散…北九州市の福岡県済生会八幡総合病院",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/national/20261020-GYT1T00383/"
-  },
-  {
-   "source": "読売新聞",
-   "title": "アジアパラ座位バレー男子、イランの身長２ｍ４６メヘルザドセラクジャニ圧巻…上からのスパイクやブロックで快勝",
-   "summary": "",
-   "category": "",
-   "link": "https://www.yomiuri.co.jp/sports/para-sports/news/20261020-GYT1T00397/"
-  },
-  {
-   "source": "読売新聞",
-   "title": "天皇、皇后両陛下がタイのスティダー王妃をお茶に招待…笑顔で皇居・御所に出迎え",
-   "summary": "",
-   "category": "",
-   "link": "https://www.yomiuri.co.jp/koushitsu/20261020-GYT1T00333/"
+   "link": "https://www.yomiuri.co.jp/national/20261021-GYT1T00394/"
   },
   {
    "source": "日本経済新聞",
-   "title": "OpenAIが4.7兆円調達と報道、ソフトバンクGと協議　アンソロIPO前に",
+   "title": "【企業一覧】個人情報の漏洩・恐れを公表した企業など　随時更新",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOGN20BSZ0Q6A021C2000000/"
+   "link": "https://www.nikkei.com/article/DGXZQODL160R40W6A011C2000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "がん死亡を減らすには　精密検査の「受診完了」が必須",
+   "title": "ドイツ株21日　反発、ハイテク関連に買い　仏株は1%高　小売りカルフールは急落",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOUD07C1M0X01C26A0000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOFL21BT10R21C26A0000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "JR九州上場10年、赤字の「三島会社」不動産で脱皮　首都圏に用地部隊",
+   "title": "プーチン氏、中国首相と会談「実務協力を拡大」　11月の首脳会談に意欲",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOJC25AUC0V20C26A9000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOGR211BS0R21C26A0000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "再生プラ、色ムラに価値　新潟・燕三条でマーブル模様の製品開発",
+   "title": "ロンドン株21日　小幅反発、石油株や銀行に買い　インフレ懸念は重荷",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOCC09AFY0Z01C26A0000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOFL21BSX0R21C26A0000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "出光が日本向けLNG販売、2030年代前半にも　中東以外に調達多角化",
+   "title": "スペースX株は12%高、テスラは4%高　統合協議を好感も反応に格差",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOUC09A1H0Z00C26A9000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOGN21BWZ0R21C26A0000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "栃木銀行、人事制度を刷新　役割・成果に応じ評価",
+   "title": "NVIDIAが「運べるAIデータセンター」　最短2週間、インフラ整備速く",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOCC199RZ0Z11C26A0000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOGN200790Q6A021C2000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "スケート野明花菜、パシュート「銅」の先へ　「落ちぶれたらダサい」",
+   "title": "欧州国債概況21日　フランス長期金利が5%台へ上昇、24年ぶり　ドイツとの差も拡大",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQODH079TH0X01C26A0000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOFL21BSR0R21C26A0000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "静岡の大五通商、抹茶の生産能力3倍に　海外の抹茶需要に対応",
+   "title": "大学院1年で教員免許、実習中心で給与支払い　社会人の転身後押し",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOCC139720T11C26A0000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOUD217JI0R21C26A0000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "地方の中小もサイバー攻撃に備え　ひろぎんHD、専門施設で研修提供",
+   "title": "中国・深藍航天、大型ロケットで27年初飛行へ　回収はスペースX式",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOCC1594N0V11C26A0000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOUC206QA0Q6A021C2000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "リコー執行役員が語る働き方「若手でも自ら手を挙げて挑戦」",
+   "title": "22日のスポーツ",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOUC158W50V11C26A0000000/"
+   "link": "https://www.nikkei.com/article/DGXZQODH216FY0R21C26A0000000/"
   }
  ]
 }
