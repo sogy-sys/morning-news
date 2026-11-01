@@ -1,55 +1,83 @@
 {
- "date": "2026年11月01日",
+ "date": "2026年11月02日",
  "lead": "",
  "items": [
   {
    "source": "NHK",
-   "title": "GMO 子会社が2年前にシステムのぜい弱性を指摘 社長あす会見へ",
+   "title": "GMOきょう会見 不安の抑止やぜい弱性指摘後の対応が焦点",
    "summary": "",
    "category": "",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261031de69037"
+   "link": "https://news.web.nhk/newsweb/na/nd-20261101de69276"
   },
   {
    "source": "NHK",
-   "title": "GMOの被害者情報集める不審サイト ハッカー側と関連か",
+   "title": "アメリカ中間選挙あす投票 トランプ大統領中西部で演説へ",
    "summary": "",
    "category": "",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261031de69043"
+   "link": "https://news.web.nhk/newsweb/na/nd-20261102de69323"
   },
   {
    "source": "NHK",
-   "title": "ウクライナ南部の停戦で住民退避が終了 和平進展につながるか",
+   "title": "災害対策司令塔の「防災庁」が発足 体制の抜本的強化へ 政府",
    "summary": "",
    "category": "",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261031de69033"
+   "link": "https://news.web.nhk/newsweb/na/nd-20261101de69293"
   },
   {
    "source": "NHK",
-   "title": "日本のアニメ市場 初の4兆円超 海外好調続き5年連続最高値更新",
+   "title": "ゆうちょ銀行の貯金利子上限 撤廃めぐる議論進む",
    "summary": "",
    "category": "",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261031de69030"
+   "link": "https://news.web.nhk/newsweb/na/nd-20261101de69279"
   },
   {
    "source": "NHK",
-   "title": "米中間選挙 最終盤 トランプ大統領 遊説中止発表も一転開催へ",
+   "title": "消費税減税法案 与党“採決に向け協議を”野党“首相出席を”",
    "summary": "",
    "category": "",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261031de68862"
+   "link": "https://news.web.nhk/newsweb/na/nd-20261101de69291"
   },
   {
    "source": "NHK",
-   "title": "“捕獲後に山に放した個体” クマ再出没し駆除 神奈川 秦野",
+   "title": "イラン 仲介国カタールと協議 駆け引き続く",
    "summary": "",
    "category": "",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261031de68899"
+   "link": "https://news.web.nhk/newsweb/na/nd-20261102de69322"
   },
   {
    "source": "NHK",
-   "title": "北海道 JR宗谷線特急 ヒグマと衝突で脱線 1日も運転見合わせ",
+   "title": "2日にかけて広い範囲で雨 北海道は積雪のおそれも 注意を",
    "summary": "",
    "category": "",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261031de68820"
+   "link": "https://news.web.nhk/newsweb/na/nd-20261101de69264"
+  },
+  {
+   "source": "朝日新聞",
+   "title": "防波堤で4人が海に転落、2人行方不明　釣り人か　茨城・鹿嶋",
+   "summary": "",
+   "category": "",
+   "link": "http://www.asahi.com/articles/ASVC1349CVC1UJHB006M.html?ref=rss"
+  },
+  {
+   "source": "朝日新聞",
+   "title": "釣り人の50代男性2人が海に転落、1人死亡　和歌山・串本",
+   "summary": "",
+   "category": "",
+   "link": "http://www.asahi.com/articles/ASVC133CHVC1POMB00GM.html?ref=rss"
+  },
+  {
+   "source": "朝日新聞",
+   "title": "70代運転の車に5人はねられ重軽傷　宮城の紅葉名所「鳴子峡」近く",
+   "summary": "",
+   "category": "",
+   "link": "http://www.asahi.com/articles/ASVC11QJYVC1UGTB001M.html?ref=rss"
+  },
+  {
+   "source": "朝日新聞",
+   "title": "マンション火災で22歳男性死亡、両親も軽傷　東京都大田区",
+   "summary": "",
+   "category": "",
+   "link": "http://www.asahi.com/articles/ASVC11JNLVC1UTIL006M.html?ref=rss"
   },
   {
    "source": "朝日新聞",
@@ -94,242 +122,214 @@
    "link": "http://www.asahi.com/articles/ASVB02FKSVB0TIPE00PM.html?ref=rss"
   },
   {
-   "source": "朝日新聞",
-   "title": "特急ソニックの先に「人影」急ブレーキ間に合わず通過…命に別条なし",
+   "source": "毎日新聞",
+   "title": "相次ぐ災害　被災者ニーズ踏まえた支援は　防災庁が直面する課題",
    "summary": "",
    "category": "",
-   "link": "http://www.asahi.com/articles/ASVB01QHTVB0TIPE007M.html?ref=rss"
-  },
-  {
-   "source": "朝日新聞",
-   "title": "市街地近くに再び出没のクマ捕獲　危険と判断し殺処分　神奈川・秦野",
-   "summary": "",
-   "category": "",
-   "link": "http://www.asahi.com/articles/ASVB01W39VB0ULOB005M.html?ref=rss"
-  },
-  {
-   "source": "朝日新聞",
-   "title": "知人をハンマーで殴るなどして殺害しようとした疑い、男を逮捕　岡山",
-   "summary": "",
-   "category": "",
-   "link": "http://www.asahi.com/articles/ASVB01FWJVB0PPZB001M.html?ref=rss"
-  },
-  {
-   "source": "朝日新聞",
-   "title": "名古屋市東区の殺人未遂事件、逃げていた男を逮捕　姉を刺した疑い",
-   "summary": "",
-   "category": "",
-   "link": "http://www.asahi.com/articles/ASVB015TYVB0OIPE002M.html?ref=rss"
+   "link": "https://mainichi.jp/articles/20261026/k00/00m/040/326000c"
   },
   {
    "source": "毎日新聞",
-   "title": "池上彰のこれ聞いていいですか？:フィクションには油断ならない面が　宮部さんが考える「危うさ」",
+   "title": "＃ビジュ:ダイエットがやめられない　5キロ減に成功も、崩れた12歳の心",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261030/k00/00m/200/407000c"
+   "link": "https://mainichi.jp/articles/20261031/k00/00m/040/074000c"
   },
   {
    "source": "毎日新聞",
-   "title": "池上彰のこれ聞いていいですか？:作家・宮部みゆきさん　好きで読んだ本から「書きたい」と40年",
+   "title": "毎日歌壇・俳壇11月2日の特選より",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261030/k00/00m/200/384000c"
+   "link": "https://mainichi.jp/articles/20261101/k00/00m/200/091000c"
   },
   {
    "source": "毎日新聞",
-   "title": "「フィルムアート社」に梓会出版文化賞　中小出版社を顕彰",
+   "title": "関東・東日本学生空手道大会が開催　各階級の優勝者決まる",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261031/k00/00m/200/218000c"
+   "link": "https://mainichi.jp/articles/20261101/k00/00m/050/384000c"
   },
   {
    "source": "毎日新聞",
-   "title": "出国時に返金、免税「リファンド方式」　1日開始　不正転売対策",
+   "title": "「戦いの神様」にあやかり大暴れ　JFE西・田中多聞　日本選手権",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261030/k00/00m/020/278000c"
+   "link": "https://mainichi.jp/articles/20261101/k00/00m/050/381000c"
   },
   {
    "source": "毎日新聞",
-   "title": "駅伝365:全日本初Vへ、中大・藤原監督「ここで使うか、あえて隠すか…」",
+   "title": "苦かった2大大会の初登板　東海理化の新人・大嶋柊　日本選手権",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261031/k00/00m/050/334000c"
+   "link": "https://mainichi.jp/articles/20261101/k00/00m/050/368000c"
   },
   {
    "source": "毎日新聞",
-   "title": "「多くの人にパナの野球を」　4番三宅、大応援団に応えた一打",
+   "title": "JFE西日本・綿屋樹、夏の悔しさを晴らす適時打　日本選手権",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261031/k00/00m/050/331000c"
+   "link": "https://mainichi.jp/articles/20261101/k00/00m/050/367000c"
   },
   {
    "source": "毎日新聞",
-   "title": "「超満員で決勝まで」西武ドラフト2位のパナ・柿本　日本選手権",
+   "title": "GMO系4.5万人分漏えい　設定ミスで9年間外部から取得可能に",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261031/k00/00m/050/330000c"
+   "link": "https://mainichi.jp/articles/20261101/k00/00m/020/365000c"
   },
   {
    "source": "毎日新聞",
-   "title": "GMO、11月2日に記者会見　問題発覚後初　今後の方針説明か",
+   "title": "個人戦8強ゼロの東洋大　団体8年ぶり制覇　全国学生相撲選手権",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261031/k00/00m/020/329000c"
+   "link": "https://mainichi.jp/articles/20261101/k00/00m/050/356000c"
   },
   {
    "source": "毎日新聞",
-   "title": "西武ドラフト5位の日本生命・中津「一球の重みを」　日本選手権",
+   "title": "JFE西日本が4大会連続で初戦突破　東海理化降す　日本選手権",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261031/k00/00m/050/328000c"
-  },
-  {
-   "source": "毎日新聞",
-   "title": "JR東京駅前で全力疾走　朝原宣治さんら登場、30m駆け抜ける",
-   "summary": "",
-   "category": "",
-   "link": "https://mainichi.jp/articles/20261031/k00/00m/050/321000c"
+   "link": "https://mainichi.jp/articles/20261101/k00/00m/050/167000c"
   },
   {
    "source": "読売新聞",
-   "title": "ロシア軍占領地から住民退避、ウクライナ入り…ロシアとウクライナの文民チームが現地に支援物資",
+   "title": "暗号資産９９００億円相当流出、北朝鮮ハッカー集団の犯行と断定…ＦＢＩ発表「資金洗浄の動き」",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/world/20261031-GYT1T00248/"
+   "link": "https://www.yomiuri.co.jp/economy/20261101-GYT1T00151/"
   },
   {
    "source": "読売新聞",
-   "title": "Ｊ１・浦和のＧＫ西川周作、通算試合出場数最多タイ６７２試合「記録は通過点」…遠藤保仁氏に並ぶ",
+   "title": "ロシア統計局にサイバー攻撃、「ウクライナ支持」ハッカー集団が犯行声明…昨年の露航空最大手への攻撃でも声明",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/sports/soccer/jleague/20261031-GYT1T00223/"
+   "link": "https://www.yomiuri.co.jp/world/20261102-GYT1T00006/"
   },
   {
    "source": "読売新聞",
-   "title": "ＧＭＯのシステム脆弱性、グループの会社が２０２４年指摘…熊谷正寿会長兼社長が１１月２日にも会見",
+   "title": "朝日新聞出版、９月刊行の新書の出版・販売を中止「事実と異なる内容が複数あった」",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/economy/20261031-GYT1T00296/"
+   "link": "https://www.yomiuri.co.jp/national/20261102-GYT1T00004/"
   },
   {
    "source": "読売新聞",
-   "title": "クラブツーリズムに不正アクセス、会員情報４３２万件流出の可能性…ＨＰ機能を一時停止",
+   "title": "堤防で釣りをしていたインドネシア国籍の男性４人、波にさらわれ１人死亡・１人不明…茨城・鹿嶋",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/economy/20261031-GYT1T00291/"
+   "link": "https://www.yomiuri.co.jp/national/20261101-GYT1T00177/"
   },
   {
    "source": "読売新聞",
-   "title": "イラン最高指導者のモジタバ師、米軍が再攻撃なら「地理的な制限なく反撃」指示",
+   "title": "フランスで３週連続の抗議デモ、物価高対策など求め３２万人が参加…ドイツでは若者が教育環境の改善訴え",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/world/20261031-GYT1T00278/"
+   "link": "https://www.yomiuri.co.jp/world/20261101-GYT1T00147/"
   },
   {
    "source": "読売新聞",
-   "title": "保育士養成の大学・短大１７校減の６５０校、うち６８校が学生募集停止…人材不足が深刻化する恐れ",
+   "title": "「ＯＰＥＣプラス」有志７か国、１２月からの生産目標を維持…据え置きは３か月連続",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/national/20261031-GYT1T00276/"
+   "link": "https://www.yomiuri.co.jp/economy/20261101-GYT1T00200/"
   },
   {
    "source": "読売新聞",
-   "title": "ゲーム開発にＡＩ活用「どこまで使うべきか」…業務効率化図れる一方、著作権侵害や情報漏えい懸念",
+   "title": "赤字の病院は４６％、診療報酬引き上げも厳しい経営状況浮き彫りに…日本病院会など調査",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/economy/20261031-GYT1T00266/"
+   "link": "https://www.yomiuri.co.jp/medical/20261101-GYT1T00210/"
   },
   {
    "source": "読売新聞",
-   "title": "１１月１日の運勢　おとめ座は冬ものを買いに行ってみて　ふたご座は計画していたことが少しずつ現実化していきそう",
+   "title": "「ＷＳＪ記事で名誉傷ついた」、トランプ氏の訴えを米連邦地裁が棄却…「現実の悪意」証明せずと判断",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/life/horoscope/20261028-SYT8T8537119/"
+   "link": "https://www.yomiuri.co.jp/world/20261101-GYT1T00139/"
   },
   {
    "source": "読売新聞",
-   "title": "１１月１日～７日の運勢",
+   "title": "ビデオやカセットに使われた磁気テープ、ＡＩ普及で脚光…消費電力少なく低コスト・富士フイルムは生産能力５倍に",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/life/horoscope/20261028-SYT8T8537086/"
+   "link": "https://www.yomiuri.co.jp/economy/20261101-GYT1T00187/"
   },
   {
    "source": "読売新聞",
-   "title": "全日本大学駅伝で早稲田大・鈴木琉胤は何区に？…煙に巻く花田監督、ＯＢ瀬古利彦さん「私にも教えてくれないんですよ」",
+   "title": "人道状況が悪化したウクライナ南部州、物資搬入・住民退避に成功…局地停戦は終了へ",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/hakone-ekiden/news/20261031-GYT1T00240/"
+   "link": "https://www.yomiuri.co.jp/world/20261101-GYT1T00163/"
   },
   {
    "source": "日本経済新聞",
-   "title": "ブルーカラー票争奪、赤いラストベルト州が試金石　28年大統領選巡り",
+   "title": "STSとは　船舶間で貨物受け渡し 中東危機で輸送のカギに",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOGN28CJK0Y6A021C2000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOUB3073Y0Q6A031C2000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "金利低下でも沈むゴールド　1年ぶり安値、米中間選挙後の原油高に警鐘",
+   "title": "レセプショニスト10日上場　橋本代表「受付システム、AI機能で成長」",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOUB29BV20Z21C26A0000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOUC260RY0W6A021C2000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "2ナノ回路は存在しない？　半導体性能を示す「業界用語」が独り歩き",
+   "title": "和歌山と徳島は双子県？　地形と地名、農産物やラーメンまで共通点",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOUC30BCV0Q6A930C2000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOUF260QF0W6A021C2000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "伊藤忠、訪日客購買データに照準　免税新制度向けシステム会社に出資",
+   "title": "米中間選挙が最終盤、ミシガンで民主分裂　トランプ氏は｢赤い州｣奔走",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOUC27BFQ0X21C26A0000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOGN310050R31C26A0000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "長雨で野菜不作、外食で食材変更相次ぐ　ロイホはレタス→キャベツに",
+   "title": "滋賀経済、琵琶湖から世界へ　グローバルニッチトップ企業が次々と",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOUC21B2H0R21C26A0000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOUF15AGX0V11C26A0000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "次世代原発、米国事業が「頼みの綱」　日米合意の巨額投資に賭ける",
+   "title": "立命館大学、滋賀県草津市からスタートアップ続々　次なる挑戦は宇宙",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOUC19AH40Z11C26A0000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOUF089YM0Y6A001C2000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "人事、総務省",
+   "title": "ナフサ調達、「量」の不安は和らぐ　住友ゴム社長が語るタイヤと景気",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOH1309E00Q6A031C2000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOUA287QE0Y6A920C2000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "コスト半減を褒めないマスク氏　EVで学んだ量産、スペースXに応用",
+   "title": "全東信の破綻、揺れた飲食店　「ようやく売上金戻ってきた」",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOGN299GW0Z21C26A0000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOUC287J40Y6A021C2000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "NTT、サイバー防御へ企業の老朽システム刷新　国内6割が保守難しく",
+   "title": "2026年、主な航空宇宙スタートアップの創業者顔ぶれ",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOUC2184T0R21C26A0000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOUC283FK0Y6A021C2000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "がんで最大の学術集会、第5の治療「ウイルス療法」の成果報告多く",
+   "title": "滋賀は隠れた菓子王国　たねやGに叶匠寿庵、ロッテやカルビーも拠点",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOSG227UV0S6A021C2000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOUF0934F0Z01C26A0000000/"
   }
  ]
 }
