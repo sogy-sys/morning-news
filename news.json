@@ -1,55 +1,118 @@
 {
- "date": "2026年11月08日",
+ "date": "2026年11月09日",
  "lead": "",
  "items": [
   {
    "source": "NHK",
-   "title": "【地震情報】愛知県で震度5強 津波の心配なし",
+   "title": "【地震速報】岩手県 宮城県で震度3 津波の心配なし",
    "summary": "",
    "category": "",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261108de72252"
+   "link": "https://news.web.nhk/newsweb/na/nd-20261108de72427"
   },
   {
    "source": "NHK",
-   "title": "気象庁記者会見 “同程度の地震に注意”【会見詳細】",
+   "title": "山林遺体は石川県の20代女性と確認 監禁後まもなく殺害か",
    "summary": "",
    "category": "",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261108de72259"
+   "link": "https://news.web.nhk/newsweb/na/nd-20261109de72639"
   },
   {
    "source": "NHK",
-   "title": "【鉄道影響】東海道新幹線 遅れ見込み 在来線一部運転見合わせ",
+   "title": "COP31 きょう開幕へ 各国が足並みそろえられるか焦点に",
    "summary": "",
    "category": "",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261108de72329"
+   "link": "https://news.web.nhk/newsweb/na/nd-20261108de72633"
   },
   {
    "source": "NHK",
-   "title": "愛知で震度5強【各地の被害情報】",
+   "title": "消費税減税法案 あさって参議院で審議入り 与野党論戦へ",
    "summary": "",
    "category": "",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261108de72310"
+   "link": "https://news.web.nhk/newsweb/na/nd-20261108de72622"
   },
   {
    "source": "NHK",
-   "title": "愛知 豊橋 車の販売店でショーウィンドウのガラス大きく割れる",
+   "title": "エジプトで列車衝突事故 7人死亡 112人けが",
    "summary": "",
    "category": "",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261108de72297"
+   "link": "https://news.web.nhk/newsweb/na/nd-20261109de72671"
   },
   {
    "source": "NHK",
-   "title": "愛知県の高速 5つの道路で全線通行止め",
+   "title": "佐賀 鳥栖 ブリヂストン工場で火事 3時間半後に消し止められる",
    "summary": "",
    "category": "",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261108de72280"
+   "link": "https://news.web.nhk/newsweb/na/nd-20261108de72603"
   },
   {
    "source": "NHK",
-   "title": "地震の特徴 南海トラフ巨大地震との関連【災害担当記者 解説】",
+   "title": "拉致被害者家族らが大規模集会 政府の具体的な取り組み求める",
    "summary": "",
    "category": "",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261108de72313"
+   "link": "https://news.web.nhk/newsweb/na/nd-20261108de72485"
+  },
+  {
+   "source": "朝日新聞",
+   "title": "ブリヂストン鳥栖工場で火災　従業員ら避難、3時間半後に鎮火　佐賀",
+   "summary": "",
+   "category": "",
+   "link": "http://www.asahi.com/articles/ASVC84VQTVC8TTHB001M.html?ref=rss"
+  },
+  {
+   "source": "朝日新聞",
+   "title": "福井の山中で発見の遺体、身元は監禁容疑事件の被害者　死因は窒息",
+   "summary": "",
+   "category": "",
+   "link": "http://www.asahi.com/articles/ASVC842RMVC8PJLB002M.html?ref=rss"
+  },
+  {
+   "source": "朝日新聞",
+   "title": "利根川で遺体見つかる　釣り中に流された10代男性か　群馬県警",
+   "summary": "",
+   "category": "",
+   "link": "http://www.asahi.com/articles/ASVC84FSFVC8DIFI00QM.html?ref=rss"
+  },
+  {
+   "source": "朝日新聞",
+   "title": "車両保存施設のあり方めぐり意見　JR西、宝塚線事故被害者に説明会",
+   "summary": "",
+   "category": "",
+   "link": "http://www.asahi.com/articles/ASVC82QMXVC8PTIL00HM.html?ref=rss"
+  },
+  {
+   "source": "朝日新聞",
+   "title": "大阪・梅田の書店で従業員が刺される　男を傷害容疑で現行犯逮捕",
+   "summary": "",
+   "category": "",
+   "link": "http://www.asahi.com/articles/ASVC82QDTVC8OXIE00HM.html?ref=rss"
+  },
+  {
+   "source": "朝日新聞",
+   "title": "静岡県内では3人がけが　深夜の緊急地震速報に釣り人「パニックに」",
+   "summary": "",
+   "category": "",
+   "link": "http://www.asahi.com/articles/ASVC80FVWVC8UTPB003M.html?ref=rss"
+  },
+  {
+   "source": "朝日新聞",
+   "title": "木造住宅が全焼、成人と子ども？ 焼け跡から2人の遺体　茨城・結城",
+   "summary": "",
+   "category": "",
+   "link": "http://www.asahi.com/articles/ASVC80QCPVC8UJHB001M.html?ref=rss"
+  },
+  {
+   "source": "朝日新聞",
+   "title": "マチアプで「資産運用の誘い」に注意　何度も会った、恋愛感情の先に",
+   "summary": "",
+   "category": "",
+   "link": "http://www.asahi.com/articles/ASVC51HQDVC5TIPE006M.html?ref=rss"
+  },
+  {
+   "source": "朝日新聞",
+   "title": "65万人を魅了　全国から集った2万発が秋の夜空彩る　土浦全国花火",
+   "summary": "",
+   "category": "",
+   "link": "http://www.asahi.com/articles/ASVC801XTVC8UJHB00CM.html?ref=rss"
   },
   {
    "source": "朝日新聞",
@@ -59,277 +122,214 @@
    "link": "http://www.asahi.com/articles/ASVC75F9SVC7UEFT009M.html?ref=rss"
   },
   {
-   "source": "朝日新聞",
-   "title": "神戸淡路鳴門道で高速バス火災　乗客21人にけがなし　明石大橋付近",
+   "source": "毎日新聞",
+   "title": "高支持率支えた野党支持層の「高市離れ」　転機となった政策は…",
    "summary": "",
    "category": "",
-   "link": "http://www.asahi.com/articles/ASVC74CYCVC7PXLB004M.html?ref=rss"
-  },
-  {
-   "source": "朝日新聞",
-   "title": "福井の山林に女性の遺体　監禁容疑で逮捕の男、殺人と死体遺棄で捜査",
-   "summary": "",
-   "category": "",
-   "link": "http://www.asahi.com/articles/ASVC744MHVC7PTIL00DM.html?ref=rss"
-  },
-  {
-   "source": "朝日新聞",
-   "title": "漁船から転落か、2人死亡　親子3人が乗船　茨城県北茨城市",
-   "summary": "",
-   "category": "",
-   "link": "http://www.asahi.com/articles/ASVC70T41VC7ULZU008M.html?ref=rss"
-  },
-  {
-   "source": "朝日新聞",
-   "title": "報道にもジェンダー平等を「日韓女性記者フォーラム」日本で初開催",
-   "summary": "",
-   "category": "",
-   "link": "http://www.asahi.com/articles/ASVC71V8ZVC7UTFL00ZM.html?ref=rss"
-  },
-  {
-   "source": "朝日新聞",
-   "title": "電柱に引っかかった男性が死亡　マンション建設現場から転落か　東京",
-   "summary": "",
-   "category": "",
-   "link": "http://www.asahi.com/articles/ASVC725SDVC7OXIE004M.html?ref=rss"
-  },
-  {
-   "source": "朝日新聞",
-   "title": "ロックバンドボーカル「JESSE」容疑者を逮捕　コカイン使用疑い",
-   "summary": "",
-   "category": "",
-   "link": "http://www.asahi.com/articles/ASVC713WKVC7UTIL001M.html?ref=rss"
-  },
-  {
-   "source": "朝日新聞",
-   "title": "古都・京都の冬潤す「千枚漬け」、立冬に伝統的な漬け込み作業が公開",
-   "summary": "",
-   "category": "",
-   "link": "http://www.asahi.com/articles/ASVC712RBVC7PQIP001M.html?ref=rss"
-  },
-  {
-   "source": "朝日新聞",
-   "title": "富士山が世界の「地質遺産100選」に　噴火の多様さや研究蓄積評価",
-   "summary": "",
-   "category": "",
-   "link": "http://www.asahi.com/articles/ASVC635WZVC6OXIE032M.html?ref=rss"
-  },
-  {
-   "source": "朝日新聞",
-   "title": "秋田県警の交通課警察官が飲酒運転の疑い　任意捜査を切り替えて逮捕",
-   "summary": "",
-   "category": "",
-   "link": "http://www.asahi.com/articles/ASVC65T8VVC6UBUB008M.html?ref=rss"
+   "link": "https://mainichi.jp/articles/20261106/k00/00m/010/249000c"
   },
   {
    "source": "毎日新聞",
-   "title": "半島の現場から:「惨禍伝える力に」　ソウル近郊の「本土決戦」痕跡が果たす役割",
+   "title": "高市内閣の支持率調査、下落する層と変わらぬ層　それぞれの理由",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261106/k00/00m/030/049000c"
+   "link": "https://mainichi.jp/articles/20261106/k00/00m/010/210000c"
   },
   {
    "source": "毎日新聞",
-   "title": "愛知県知多市で震度5強　震源は静岡県西部　M5・7",
+   "title": "東芝が7大会ぶりに4強　Honda破る　社会人野球日本選手権",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261108/k00/00m/040/002000c"
+   "link": "https://mainichi.jp/articles/20261108/k00/00m/050/164000c"
   },
   {
    "source": "毎日新聞",
-   "title": "「極力意識しないように」　DeNAドラフト7位のHonda坂口渉",
+   "title": "当の本人も「頭が真っ白」　虚を突く三重盗で日本通運が決勝点",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261107/k00/00m/050/251000c"
+   "link": "https://mainichi.jp/articles/20261108/k00/00m/050/162000c"
   },
   {
    "source": "毎日新聞",
-   "title": "淡路島で高速バスから出火　運転手と乗客計22人は避難、けがなし",
+   "title": "東京ガス、終盤の継投で暗転　4失点で逆転負け　日本選手権",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261107/k00/00m/040/250000c"
+   "link": "https://mainichi.jp/articles/20261108/k00/00m/050/160000c"
   },
   {
    "source": "毎日新聞",
-   "title": "Honda・磯貝、ドラフト漏れの悔しさぶつける好救援　日本選手権",
+   "title": "バスケットWリーグ　富士通が開幕4連勝　ENEOS降す",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261107/k00/00m/050/249000c"
+   "link": "https://mainichi.jp/articles/20261108/k00/00m/050/152000c"
   },
   {
    "source": "毎日新聞",
-   "title": "NZ総選挙、与党が暫定集計はやや優勢　新興政党も議席獲得へ",
+   "title": "人生初、許した三重盗　阪神ドラ6、東京ガス・越川の「まさか」",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261107/k00/00m/030/247000c"
+   "link": "https://mainichi.jp/articles/20261108/k00/00m/050/155000c"
   },
   {
    "source": "毎日新聞",
-   "title": "「1点の重さが…」2大大会初先発の日鉄瀬戸内・藤野　日本選手権",
+   "title": "みんなの高校ラグビー:今季2勝の宿敵に敗れた早稲田実「うちの失敗は…」高校ラグビー",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261107/k00/00m/050/243000c"
+   "link": "https://mainichi.jp/articles/20261108/k00/00m/050/154000c"
   },
   {
    "source": "毎日新聞",
-   "title": "社会人野球日本選手権、8強出そろう　東芝やHondaなど2回戦勝利",
+   "title": "ヤクルト1位の東京ガス藤沢「会社背負う重みを…」　日本選手権",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261107/k00/00m/050/242000c"
+   "link": "https://mainichi.jp/articles/20261108/k00/00m/050/150000c"
   },
   {
    "source": "毎日新聞",
-   "title": "リンクサイド:6位の山下真瑚「大きな舞台で滑れて幸せ」　中国杯女子フリー",
+   "title": "パナ休部、西武2位の柿本「自分のチームが残っていない悔しさ」",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261107/k00/00m/050/239000c"
-  },
-  {
-   "source": "毎日新聞",
-   "title": "映画の推し事:東京国際映画祭最優秀男優賞・成田凌見つめる「男ともだち」の愛と友情",
-   "summary": "",
-   "category": "",
-   "link": "https://mainichi.jp/articles/20261105/k00/00m/200/148000c"
+   "link": "https://mainichi.jp/articles/20261108/k00/00m/050/151000c"
   },
   {
    "source": "読売新聞",
-   "title": "静岡西部を震源とする地震、愛知県知多市で震度５強観測…津波の心配なし",
+   "title": "フォーエバーヤング、年末の東京大賞典で引退へ…海外ＧＩレースで日本調教馬で最多４勝・総獲得賞金５０憶円超",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/national/20261108-GYT1T00027/"
+   "link": "https://www.yomiuri.co.jp/sports/etc/20261108-GYT1T00146/"
   },
   {
    "source": "読売新聞",
-   "title": "西武池袋線が運転再開…江古田駅で人身事故",
+   "title": "山林で発見の遺体は石川の２６歳女性、死因は頸部圧迫による急性窒息と判明…監禁容疑で逮捕の男送検",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/national/20261108-GYT1T00002/"
+   "link": "https://www.yomiuri.co.jp/national/20261108-GYT1T00144/"
   },
   {
    "source": "読売新聞",
-   "title": "【ECB総裁・独占インタビュー〈下〉】安倍元首相しのぶ ｢強いリーダーだった｣",
+   "title": "「パラグライダーが落下した」と１１９番、操縦していた７２歳男性死亡…山中で木に引っ掛かった機体発見",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/economy/20261107-GYT1T00169/"
+   "link": "https://www.yomiuri.co.jp/national/20261108-GYT1T00142/"
   },
   {
    "source": "読売新聞",
-   "title": "【ECB総裁・独占インタビュー〈中〉】仏大統領選関与へ｢でっち上げ、見過ごせない｣",
+   "title": "イチローが進学校の高校生指導「真面目オーラ」「野球と勉強でスイッチ切り替えて」…保護者とＷＢＣの縁で実現",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/economy/20261107-GYT1T00165/"
+   "link": "https://www.yomiuri.co.jp/sports/yakyu/20261108-GYT1T00138/"
   },
   {
    "source": "読売新聞",
-   "title": "【ECB総裁・独占インタビュー〈上〉】追加利上げ示唆　物価高への危機感あらわ",
+   "title": "侍ジャパン、練習試合で広島に快勝…３番西川「誰かが打つと負けたくない」と集中打の火付け役",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/economy/20261107-GYT1T00162/"
+   "link": "https://www.yomiuri.co.jp/sports/wbc/20261108-GYT1T00135/"
   },
   {
    "source": "読売新聞",
-   "title": "２０代女性監禁容疑の男「殺害して遺棄した」と供述、山林で遺体発見…女性は７月に警察に相談",
+   "title": "柔道講道館杯、男子７３キロ級で石原樹が３年ぶりＶ…ロス五輪代表争い「もう落とせない」と覚悟決め４戦投げ勝つ",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/national/20261107-GYT1T00293/"
+   "link": "https://www.yomiuri.co.jp/sports/etc/20261108-GYT1T00127/"
   },
   {
    "source": "読売新聞",
-   "title": "国際協力の必要性訴えたラガルド氏、ミドルパワー結束へ「日本なども含めて力を合わせたい」",
+   "title": "１１月９日の運勢　いて座は時間がなくて手つかずにしていたことを始める好機　しし座はモバイルバッテリーなどの扱いに注意",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/economy/20261107-GYT1T00282/"
+   "link": "https://www.yomiuri.co.jp/life/horoscope/20261104-SYT8T8561098/"
   },
   {
    "source": "読売新聞",
-   "title": "ＥＣＢラガルド総裁、フランス大統領選の議論「見過ごせない」「意見述べたい」…読売新聞インタビュー",
+   "title": "パラグライダーが墜落し女性死亡、初心者向けイベントに参加…単独飛行に挑戦中",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/economy/20261107-GYT1T00254/"
+   "link": "https://www.yomiuri.co.jp/national/20261108-GYT1T00133/"
   },
   {
    "source": "読売新聞",
-   "title": "トランプ氏最側近、保守強硬派ミラー氏起用へ…これまでに不法移民追放など攻撃的な政策実行",
+   "title": "愛子さま、ソフトテニス特有の弾み方に「レシーブの人は大変ですね」…天皇陛下と並んで全日本選手権を観戦",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/world/20261107-GYT1T00289/"
+   "link": "https://www.yomiuri.co.jp/koushitsu/20261108-GYT1T00131/"
   },
   {
    "source": "読売新聞",
-   "title": "ボウリングは「いろんな人に出会えるスポーツ」、高い知名度でブーム先導…中山律子さん死去",
+   "title": "「おばあちゃん」の知恵にビジネスチャンス…経験や包容力活かし身の上相談、食堂運営や家事・育児支援も",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/national/20261107-GYT1T00277/"
+   "link": "https://www.yomiuri.co.jp/national/20261106-GYT1T00137/"
   },
   {
    "source": "日本経済新聞",
-   "title": "トランプ敗北後も「米の外交・安保戻らず」　変わる脅威、自衛磨く欧州",
+   "title": "大阪・能勢の高級栗「銀寄」、飢餓救った実りに由来　農家育成に一丸",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOGR02AJR0S6A101C2000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOUF27A8Z0X21C26A0000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "クレディセゾン、アジア開発銀行と提携　新興国で中小企業融資800億円",
+   "title": "中部電力、浜岡原発は巨額減損でも廃炉せず　再稼働遅れれば収支悪化",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOUB029EQ0S6A900C2000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOFD250OM0V21C26A0000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "食後の血糖変動、AIはどこまで予測できるか　記者が2週間体験",
+   "title": "日本たばこ産業のロシア事業、FSB元職員の企業が管理　メディア報道",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOUA0275G0S6A101C2000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOGN082BP0Y6A101C2000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "新小結美ノ海、稽古相手に恵まれて地力つく（玉ノ井親方の勝負勘）",
+   "title": "丸亀製麺のトリドールHDが取適法違反　「双方で合意」の落とし穴",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQODH043RS0U6A101C2000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOUC264VA0W6A021C2000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "トランプ政権の月面着陸、熱量だけでは越えられぬ壁　日中と温度差",
+   "title": "26年創業の新興企業、19社がユニコーンに　AI開発など",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOCD023L40S6A101C2000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOUC0337A0T01C26A1000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "製造業の27年3月期、半数が純利益上振れ　値上げや円安が追い風",
+   "title": "イスラエル大統領、野党アイゼンコット氏に組閣要請　連立交渉は難航",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOUB042Q00U6A101C2000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOGR0800A0Y6A101C2000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "COP31が9〜20日に開催　温暖化ガス排出抑制、新たな協調探る",
+   "title": "福井の山林で発見の遺体、26歳女性と判明　監禁容疑の被害者",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOUA302J90Q6A031C2000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOUD081WX0Y6A101C2000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "サンゴの白化が秋にも発生、海水温上昇の長期化で　琉球大学調査",
+   "title": "社会人野球、西濃運輸やNTT西日本が準決勝へ　日本選手権",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOSG021VE0S6A101C2000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOKC082480Y6A101C2000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "技術職不足にあえぐ都道府県、中途採用2倍に　奨学金肩代わりで確保",
+   "title": "北海道網走市長選挙、水谷洋一氏が5選",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOCC201UF0Q6A820C2000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOCC082250Y6A101C2000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "星野リゾート「界の定期券」毎年完売　23施設12泊、70代の旅を後押し",
+   "title": "卓球Tリーグ、首位金沢が静岡下す　女子は九州競り勝つ",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOUC260QG0W6A021C2000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOKC0821E0Y6A101C2000000/"
   }
  ]
 }
