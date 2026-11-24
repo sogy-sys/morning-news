@@ -1,59 +1,115 @@
 {
- "date": "2026年11月23日",
+ "date": "2026年11月24日",
  "lead": "",
  "items": [
   {
    "source": "NHK",
-   "title": "横溝正史が戦時下に陸軍「幻の雑誌」に掲載した推理小説発見",
+   "title": "参議院 野党6党 関文科相に対する問責決議案 提出方針で一致",
    "summary": "",
    "category": "",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261123de80134"
+   "link": "https://news.web.nhk/newsweb/na/nd-20261124de80396"
   },
   {
    "source": "NHK",
-   "title": "松山市中心部近くの住宅で火事 2人と連絡取れず",
+   "title": "エヌビディアCEO フアン氏が復帰へ 企業統治も問われるか",
    "summary": "",
    "category": "",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261123de80132"
+   "link": "https://news.web.nhk/newsweb/na/nd-20261123de80304"
   },
   {
    "source": "NHK",
-   "title": "沖縄 首里城正殿が復元 きょう正午から一般公開",
+   "title": "荒れた天気 強風 土砂災害に十分注意 今夜以降日本海側で雪も",
    "summary": "",
    "category": "",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261122de80078"
+   "link": "https://news.web.nhk/newsweb/na/nd-20261123de80284"
   },
   {
    "source": "NHK",
-   "title": "【動画】上空から見た首里城正殿は？",
+   "title": "長野と岐阜 雪の影響で停電続く 丸4日以上停電している地域も",
    "summary": "",
    "category": "",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261123de80128"
+   "link": "https://news.web.nhk/newsweb/na/nd-20261124de80343"
   },
   {
    "source": "NHK",
-   "title": "野党 関文科相辞任求める声強まる 木原官房長官“説明が重要”",
+   "title": "アメリカ商務省 “メガスピード” を輸出規制の対象に指定",
    "summary": "",
    "category": "",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261123de80109"
+   "link": "https://news.web.nhk/newsweb/na/nd-20261124de80494"
   },
   {
    "source": "NHK",
-   "title": "COP31成果文書採択断念 化石燃料からの脱却言及なしに反発の声",
+   "title": "海外に住む親族の扶養控除 来年度税制改正で要件厳格化へ",
    "summary": "",
    "category": "",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261122de79933"
+   "link": "https://news.web.nhk/newsweb/na/nd-20261124de80499"
   },
   {
    "source": "NHK",
-   "title": "“会談模索もキム総書記の条件を米が受け入れられず”米報道",
+   "title": "サッカー女子ワールドカップ 2031年と2035年の開催地決定",
    "summary": "",
    "category": "",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261123de80133"
+   "link": "https://news.web.nhk/newsweb/na/nd-20261123de80288"
   },
   {
    "source": "朝日新聞",
-   "title": "「越前がに」の町から消える6億円　ふるさと納税サイトで不正表示",
+   "title": "授業料以外の費用に「不安」7割　高校無償化でも　塾の保護者調査",
+   "summary": "",
+   "category": "",
+   "link": "http://www.asahi.com/articles/ASVCN2FK0VCNUTIL009M.html?ref=rss"
+  },
+  {
+   "source": "朝日新聞",
+   "title": "夜になっても冷めなかった夏の大阪、熱帯夜が続いた四つの要因とは？",
+   "summary": "",
+   "category": "",
+   "link": "http://www.asahi.com/articles/ASVCN2SDYVCNPTIL00FM.html?ref=rss"
+  },
+  {
+   "source": "朝日新聞",
+   "title": "交番内で頭から出血、男性巡査死亡　そばに使われた形跡の拳銃　熊本",
+   "summary": "",
+   "category": "",
+   "link": "http://www.asahi.com/articles/ASVCR3T6YVCRTLVB001M.html?ref=rss"
+  },
+  {
+   "source": "朝日新聞",
+   "title": "熊本地震で中止の八代妙見祭　被災神社で復興祈願の「亀蛇」躍動",
+   "summary": "",
+   "category": "",
+   "link": "http://www.asahi.com/articles/ASVCR2TC9VCRTIPE001M.html?ref=rss"
+  },
+  {
+   "source": "朝日新聞",
+   "title": "列車先頭の行き先に出発駅を誤表示　乗客が乗り損ねる　JR九州発表",
+   "summary": "",
+   "category": "",
+   "link": "http://www.asahi.com/articles/ASVCR2TYXVCRTIPE00DM.html?ref=rss"
+  },
+  {
+   "source": "朝日新聞",
+   "title": "悠仁さまが新嘗祭に、重要な宮中祭祀　23日からの皇室の予定",
+   "summary": "",
+   "category": "",
+   "link": "http://www.asahi.com/articles/ASVCN262JVCNUTIL005M.html?ref=rss"
+  },
+  {
+   "source": "朝日新聞",
+   "title": "首里城正殿の内部が7年ぶりに一般公開　「沖縄の文化を継承したい」",
+   "summary": "",
+   "category": "",
+   "link": "http://www.asahi.com/articles/ASVCR12MKVCRUTIL01DM.html?ref=rss"
+  },
+  {
+   "source": "朝日新聞",
+   "title": "「弱そうな相手を狙った」高1少年を逮捕　66歳を襲い強盗致傷容疑",
+   "summary": "",
+   "category": "",
+   "link": "http://www.asahi.com/articles/ASVCR0RYDVCRTIPE006M.html?ref=rss"
+  },
+  {
+   "source": "朝日新聞",
+   "title": "「越前がに」の町から6億円が消える　ふるさと納税、不正表示の波紋",
    "summary": "",
    "category": "",
    "link": "http://www.asahi.com/articles/ASVCM220DVCMPGJB006M.html?ref=rss"
@@ -66,270 +122,214 @@
    "link": "http://www.asahi.com/articles/ASVCM2R1ZVCMOXIE03KM.html?ref=rss"
   },
   {
-   "source": "朝日新聞",
-   "title": "帰宅途中にクマと遭遇、足をひっかかれて20代男性が軽傷　京丹後市",
+   "source": "毎日新聞",
+   "title": "北朝鮮の「海上警察」か、韓国紙が撮影　日本漁船に影響の恐れも",
    "summary": "",
    "category": "",
-   "link": "http://www.asahi.com/articles/ASVCQ55HRVCQPXLB005M.html?ref=rss"
-  },
-  {
-   "source": "朝日新聞",
-   "title": "金塊4億円相当なくなる　現金2500万円も　警察が窃盗容疑で捜査",
-   "summary": "",
-   "category": "",
-   "link": "http://www.asahi.com/articles/ASVCP51T9VCPPLZB00BM.html?ref=rss"
-  },
-  {
-   "source": "朝日新聞",
-   "title": "電動車いすの79歳、踏切で電車にはねられ死亡　奈良・大和高田市",
-   "summary": "",
-   "category": "",
-   "link": "http://www.asahi.com/articles/ASVCQ3DRZVCQPOMB001M.html?ref=rss"
-  },
-  {
-   "source": "朝日新聞",
-   "title": "タワーレコードに不正アクセス、1100万件の個人情報流出と発表",
-   "summary": "",
-   "category": "",
-   "link": "http://www.asahi.com/articles/ASVCQ3559VCQUTIL007M.html?ref=rss"
-  },
-  {
-   "source": "朝日新聞",
-   "title": "住宅街にクマ出没の前橋市　潜む可能性のある暗渠の出入り口を閉鎖へ",
-   "summary": "",
-   "category": "",
-   "link": "http://www.asahi.com/articles/ASVCQ2WF7VCQUHNB001M.html?ref=rss"
-  },
-  {
-   "source": "朝日新聞",
-   "title": "黄金に染まるイチョウ並木、変わりゆく神宮外苑　上空から見る再開発",
-   "summary": "",
-   "category": "",
-   "link": "http://www.asahi.com/articles/ASVCQ1RKNVCQUQIP015M.html?ref=rss"
-  },
-  {
-   "source": "朝日新聞",
-   "title": "連続企業爆破事件、益永利明死刑囚が死亡　2010年から病気療養中",
-   "summary": "",
-   "category": "",
-   "link": "http://www.asahi.com/articles/ASVCQ2P8DVCQUTIL005M.html?ref=rss"
-  },
-  {
-   "source": "朝日新聞",
-   "title": "首里城正殿で復元完成式　7年ぶりによみがえる鮮やかな琉球の象徴",
-   "summary": "",
-   "category": "",
-   "link": "http://www.asahi.com/articles/ASVCQ1JL4VCQUTIL01CM.html?ref=rss"
+   "link": "https://mainichi.jp/articles/20261124/k00/00m/030/053000c"
   },
   {
    "source": "毎日新聞",
-   "title": "警察犬審査会にトイプードルも挑戦　小型犬採用進める栃木県警",
+   "title": "ロシア軍機、韓国の防空識別圏に進入　鬱陵島の住民に一時警報",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261120/k00/00m/310/094000c"
+   "link": "https://mainichi.jp/articles/20261124/k00/00m/030/052000c"
   },
   {
    "source": "毎日新聞",
-   "title": "復元された首里城正殿　一般公開に向けオープニングセレモニー",
+   "title": "今週の本棚・話題の本:ヒコロヒーさんが紹介　「こたけ正義感に通報」級の〝恋愛小説〟",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261121/k00/00m/040/007000c"
+   "link": "https://mainichi.jp/articles/20261121/k00/00m/200/136000c"
   },
   {
    "source": "毎日新聞",
-   "title": "イノシシの生命力にあやかる　縄文人の生活紹介する特別展　山梨",
+   "title": "「新築」限定で課税強化　国交相、マンション短期転売抑制で方針",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261122/k00/00m/310/052000c"
+   "link": "https://mainichi.jp/articles/20261124/k00/00m/010/042000c"
   },
   {
    "source": "毎日新聞",
-   "title": "色紙に書いた「出世魚」に　菅原大奨選手、鮮魚売り場からプロへ",
+   "title": "立憲の斎藤国対委員長　関氏は「文科相としての任にあらず」",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261120/k00/00m/310/146000c"
+   "link": "https://mainichi.jp/articles/20261124/k00/00m/010/039000c"
   },
   {
    "source": "毎日新聞",
-   "title": "みんなの高校野球:DH運用に変化　中軸に起用し勝ち上がる高校野球　神宮大会",
+   "title": "斎藤知事への抗議、問われる手法　参加者に迷いも、知事の対応は",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261123/k00/00m/050/003000c"
+   "link": "https://mainichi.jp/articles/20261120/k00/00m/310/384000c"
   },
   {
    "source": "毎日新聞",
-   "title": "「実は『北の国から』の…」　死去前年、倉本聰さんが語った新章",
+   "title": "みんなの高校ラグビー:「最後に見返す」　前回花園準Vの京都成章が流した反骨の涙",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261119/k00/00m/200/023000c"
+   "link": "https://mainichi.jp/articles/20261123/k00/00m/050/127000c"
   },
   {
    "source": "毎日新聞",
-   "title": "琉球王国世継ぎの屋敷も復元へ　首里城のこれまでと、これから",
+   "title": "教育のいま:教育実習が変わる？　早期から学校現場へ　背景に就活早期化も",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261119/k00/00m/040/431000c"
+   "link": "https://mainichi.jp/articles/20261121/k00/00m/100/166000c"
   },
   {
    "source": "毎日新聞",
-   "title": "つらさが分かるから　闘病経験の美容師、出張ヘアカットを開業",
+   "title": "官房長官「不利益生じる可能性」　日本製EVの優遇除外に懸念",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261120/k00/00m/310/053000c"
+   "link": "https://mainichi.jp/articles/20261124/k00/00m/010/037000c"
   },
   {
    "source": "毎日新聞",
-   "title": "平野啓一郎:「青」覆う米中間選挙　平野啓一郎さんの違和感　日本との違いは",
+   "title": "萩生田氏「法的問題ないが、説明を」 　文科相パーティー問題で",
    "summary": "",
    "category": "",
-   "link": "https://mainichi.jp/articles/20261120/k00/00m/200/219000c"
-  },
-  {
-   "source": "毎日新聞",
-   "title": "読む政治:高市内閣の評価にも直結？台湾有事答弁　1年で有権者に変化も",
-   "summary": "",
-   "category": "",
-   "link": "https://mainichi.jp/articles/20261119/k00/00m/010/114000c"
+   "link": "https://mainichi.jp/articles/20261124/k00/00m/010/035000c"
   },
   {
    "source": "読売新聞",
-   "title": "関文科相パーティー問題、野党は「問責」提出の構え…国民幹事長「週明けの早い段階で本人や首相が決断を」",
+   "title": "「冬の使者」コハクチョウが続々と飛来…石川・羽咋の邑知潟",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/politics/20261123-GYT1T00058/"
+   "link": "https://www.yomiuri.co.jp/national/20261124-GYT1T00172/"
   },
   {
    "source": "読売新聞",
-   "title": "能楽堂に初見参の服部七段「第１局は後手がいい」と独自の感性、力戦で藤井竜王は▲７七桂～▲９七角の好着想［第３９期竜王戦］七番勝負第１局・藤井聡太竜王×服部慎一郎七段戦＜前編＞",
+   "title": "フアン氏と不倫の女性が幹部務めていたシンガポール企業、米商務省が輸出規制リストに追加…先端半導体を中国に迂回輸出の疑い",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/igoshougi/ryuoh/kansenki/20261111-GYT8T00097/"
+   "link": "https://www.yomiuri.co.jp/economy/20261124-GYT1T00154/"
   },
   {
    "source": "読売新聞",
-   "title": "岩井明愛が米女子ゴルフの今季最終戦で２位…山下美夢有は今季年間平均ストローク１位に",
+   "title": "「ブタ」の腎臓移植受けた末期腎不全の女性、世界で初めて１年以上人工透析が不要に…米国での承認取得を目指し臨床試験へ",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/sports/golf/20261123-GYT1T00087/"
+   "link": "https://www.yomiuri.co.jp/science/20261124-GYT1T00100/"
   },
   {
    "source": "読売新聞",
-   "title": "入植者　救急隊も標的…ヨルダン川西岸　暴行や搬送妨害　急増",
+   "title": "ネパール首相と会談したインドのモディ首相、２５００億円の支援表明…土石流の被害に「困難なときに支え合う存在」",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/world/20261123-GYT1T00079/"
+   "link": "https://www.yomiuri.co.jp/world/20261124-GYT1T00133/"
   },
   {
    "source": "読売新聞",
-   "title": "渋沢栄一ゆかり「道徳銀行」の精神受け継ぐ取り組み…埼玉りそな銀、地域の課題に向き合う",
+   "title": "トランプ氏が各国に脱退求めるＩＣＣ、タジキスタンも手続き開始…昨秋にプーチン氏が来訪も拘束せず",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/economy/20261120-GYT1T00247/"
+   "link": "https://www.yomiuri.co.jp/world/20261124-GYT1T00087/"
   },
   {
    "source": "読売新聞",
-   "title": "米レーダーへ再び攻撃　イラン革命防衛隊　バーレーン基地",
+   "title": "公明党、来春の統一選で「自民系候補者」推薦しない方針…西田幹事長「政治とカネ何ら解決していない」",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/world/20261123-GYT1T00077/"
+   "link": "https://www.yomiuri.co.jp/election/local/20261124-GYT1T00108/"
   },
   {
    "source": "読売新聞",
-   "title": "ミャンマー復帰先送り　評価…スー・チー氏次男　ＡＳＥＡＮ対応巡り",
+   "title": "関文科相に対する問責決議案、野党６党が参院に提出へ…関氏は「職務に全力でまい進」と辞任を否定",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/world/20261123-GYT1T00075/"
+   "link": "https://www.yomiuri.co.jp/politics/20261124-GYT1T00140/"
   },
   {
    "source": "読売新聞",
-   "title": "エジプト　報道規制圧力　欠席裁判で編集長有罪　国内外から批判",
+   "title": "南海高野線の今宮戎駅で男女２人が区間急行にはねられ死亡…１２３本が運休・１３万人に影響",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/world/20261123-GYT1T00068/"
+   "link": "https://www.yomiuri.co.jp/national/20261124-GYT1T00135/"
   },
   {
    "source": "読売新聞",
-   "title": "災害時トイレ　性能に基準　自治体の調達指針　策定へ　経産省　吸水量など表示ばらつき",
+   "title": "米エヌビディアのフアン氏復帰を好感、ＮＹ・東京市場で株上昇…日経平均の午前の終値は２２３９円高の５万８６７５円",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/economy/20261123-GYT1T00064/"
+   "link": "https://www.yomiuri.co.jp/economy/20261124-GYT1T00138/"
   },
   {
    "source": "読売新聞",
-   "title": "高市首相の一日（２２日）",
+   "title": "米エヌビディアのフアン氏復帰、米政権の働きかけで方針転換か…トランプ氏「私の介入が非常に重要」「嫌疑は晴れた」",
    "summary": "",
    "category": "",
-   "link": "https://www.yomiuri.co.jp/politics/20261123-GYT1T00062/"
+   "link": "https://www.yomiuri.co.jp/economy/20261124-GYT1T00113/"
   },
   {
    "source": "日本経済新聞",
-   "title": "久保建英は後半途中から、佐野海舟フル出場　毎熊晟矢がゴール",
+   "title": "第一三共ヘルスケア、敏感肌向け「ミノンアミノモイスト」を刷新",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOKC230660T21C26A1000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOUC2435J0U6A121C2000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "ウクライナ、リビアでロシア軍艦攻撃か　AP報道",
+   "title": "トランプ氏、オバマ氏お辞儀写真投稿　官房長官「説明する立場ない」",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOCB2308E0T21C26A1000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOUA241QU0U6A121C2000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "ジャンプW杯、小林陵侑は13位　男子個人第2戦",
+   "title": "東証後場寄り　日経平均は引き続き高い　アジア株高も追い風",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOKC2305S0T21C26A1000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOFL242SN0U6A121C2000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "米女子ゴルフ、岩井明愛2位　山下美夢有がタイトル獲得",
+   "title": "南ア・ケープタウンにアフリカ初の少女像設置へ　慰安婦問題象徴",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOKC2306E0T21C26A1000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOCB2436L0U6A121C2000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "「リストラ告げる側」から人事のプロへ、We Are The People社長",
+   "title": "美坂佳助氏が死去　元エア・ウォーター社長",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOLC2001D0Q6A121C2000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOUF2425G0U6A121C2000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "セブンティーンアイス「こんな所に？」で成長　学校やタワマンに自販機",
+   "title": "東京都新宿区、小型火葬場の設置検討開始　用地公募の方針",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOUC19CL10Z11C26A1000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOCC241UH0U6A121C2000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "相次ぐ情報流出、「自衛」アイテムに脚光　パスワード帳は品薄に",
+   "title": "上海株前引け　続伸、米国やアジア株高が波及　半導体株上昇",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOUC13BKW0T11C26A1000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOFL240W30U6A121C2000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "中国、薬局彩る「ドンキ風」手書きポスター　広告規制くぐりぬけ？",
+   "title": "日経平均、午前終値2239円高　NVIDIAファン氏復帰で悲観の揺り戻し",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOUC199IJ0Z11C26A1000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOUB240IJTU6A121C2000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "最新ウォークマンは65万円、｢初代比20倍｣に映るソニーのブランド戦略",
+   "title": "野党6党、文科相の問責決議案提出へ　関氏「職務に全力」辞任否定",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOUC179GT0X11C26A1000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOUA232QZ0T21C26A1000000/"
   },
   {
    "source": "日本経済新聞",
-   "title": "スポーツファン、視線は海外　MLBファン増加でもプロ野球は7%減",
+   "title": "外為12時　円相場、上昇　158円台後半　原油安や実需買い受け",
    "summary": "",
    "category": "",
-   "link": "https://www.nikkei.com/article/DGXZQOUC199290Z11C26A1000000/"
+   "link": "https://www.nikkei.com/article/DGXZQOFL242OU0U6A121C2000000/"
   }
  ]
 }
